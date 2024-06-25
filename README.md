@@ -1,4 +1,4 @@
-# Zeplin Open In App Extension
+# Zeplin Open In App Chrome Extension
 
 Opens a zeplin current tab screen url in zeplin app
 
