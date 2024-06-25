@@ -8,7 +8,7 @@ To-Do : Add customization to open any zeplin url in the respective zeplin app wi
 
 ## How it works
 
-Go to a screen of zeplin url like this `https://app.zeplin.io/project/xxxxx/screen/yyyyy` in chrome and click on the extension icon.
+Go to a screen of zeplin with url like this `https://app.zeplin.io/project/xxxxx/screen/yyyyy` in chrome and click on the extension icon.
 It will prompt you to open current screen in zeplin app client if it's installed locally.
 
 It can be useful when you want to use pop out feature for given screen which is available in app only.
