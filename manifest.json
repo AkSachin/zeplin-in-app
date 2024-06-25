@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Zeplin in app open",
+  "name": "Zeplin Open In App",
   "version": "0.1",
   "description": "Opens a zeplin current tab screen url in zeplin app",
   "author": "AkSachin",
