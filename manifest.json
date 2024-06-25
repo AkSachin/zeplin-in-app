@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Zeplin Open In App",
   "version": "0.1",
-  "description": "Opens a zeplin current tab screen url in zeplin app",
+  "description": "Opens zeplin current tab screen url in zeplin app",
   "author": "AkSachin",
   "action": {
     "default_popup": "popup.html",
