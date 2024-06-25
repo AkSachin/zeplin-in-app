@@ -19,6 +19,6 @@ It can be useful when you want to use pop out feature for given screen which is 
 1. Click the "Code" button above the file list.
 2. Download the repository as a ZIP file by clicking "Download ZIP".
 3. Extract the downloaded ZIP file to a local directory on your computer.
-4. To load the extension in Chrome, open the Chrome Extensions page `chrome://extensions/`, enable "Developer mode" (from top right), and click "Load unpacked" to select the extracted folder.
+4. To load the extension in Chrome, open the Chrome Extensions page `chrome://extensions/`, enable "Developer mode" (from top right), and click "Load unpacked" to select the extracted folder (the folder that contains `manifest.json`).
 5. The Chrome extension should now be installed and available in your browser.
 6. Pin the extension so that it stays visible.
